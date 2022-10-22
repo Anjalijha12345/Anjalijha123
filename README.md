@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Anjali jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right alt="coding" width="400" src="https://in.pinterest.com/pin/923097254842446708/">
+<img align="right" alt="Coding" width="400" src=
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalijha12345&label=Profile%20views&color=0e75b6&style=flat" alt="anjalijha12345" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@anjalij15209006" target="blank"><img src="https://img.shields.io/twitter/follow/@anjalij15209006?logo=twitter&style=for-the-badge" alt="@anjalij15209006" /></a> </p>
 
 - 🌱 I’m currently learning **front-end Development with UI/UX design skills**
 
@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Anjali jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anjalij15209006" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anjali-jha-862643203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjali-jha-862643203/" height="30" width="40" /></a>
 <a href="https://fb.com/anjalijha1823@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjalijha1823@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/anjalijha042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjalijha042" height="30" width="40" /></a>
